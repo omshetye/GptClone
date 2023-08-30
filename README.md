@@ -1,2 +1,2 @@
 # GptClone
-A chatbot web application made in Djnago which uses Huggingface LLM APIs
+A chatbot web application made in Django which uses Huggingface LLM APIs
